@@ -4,7 +4,8 @@
 * 处理 js 文件。
 */
 module.exports = function (require, packer) {
-    var $String = require('String');
+    var $ = require('$');
+    var $String = $.require('String');
     var options = packer.options;
 
     var keys = [
