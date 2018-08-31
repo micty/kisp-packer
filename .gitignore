@@ -1,6 +1,6 @@
 
 /.svn
-/node_modules
-/build
+/bin/node_modules/
+/build/**/node_modules/
 
-
+/test/

@@ -1,0 +1,36 @@
+{
+    "name": "kisp-packer",
+    "version": "1.0.0",
+    "description": "auto pack js modules for KISP",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "auto",
+        "packer",
+        "modules"
+    ],
+    "author": {
+        "name": "mictydeng",
+        "email": "mictydeng@qq.com"
+    },
+    "license": "ISC",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/micty/kisp-packer.git"
+    },
+    "dependencies": {
+        "colors": "",
+        "defineJS": "",
+        "html-minifier": "",
+        "iconv-lite": "",
+        "less": "",
+        "minimatch": "",
+        "uglify-es": "",
+        "linearpath": ""
+    },
+    "devDependencies": {
+
+    }
+}

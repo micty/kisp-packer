@@ -1,0 +1,15 @@
+{
+    "name": "kisp",
+    "version": "5.1.4",
+    "repository": {},
+    "description": "KISP JavaScript Library",
+    "dependencies": {
+        "kisp-packer": "",
+        "babel-core": "^6.26.3",
+        "babel-preset-es2015": "^6.24.1"
+    },
+    "devDependencies": {},
+    "engines": {
+        "node": ">=0.8.0"
+    }
+}
