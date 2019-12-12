@@ -13,7 +13,7 @@ module.exports = function (grunt) {
                 force: true,
             },
             node_modules: [
-                '../src/node_modules/',
+                '../src/**/node_modules/',
                 '../build/**/node_modules/',
             ],
         },
